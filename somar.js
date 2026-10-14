@@ -2,4 +2,4 @@ function soma(valor1, valor2){
     return valor1 + valor2;
 }
 // torna a função para outros arquivos
-module.export = soma;
+module.exports = soma;
